@@ -1,1 +1,1 @@
-******Image Captioning******
+Image Captioning With Encoder-Decoder Architecture

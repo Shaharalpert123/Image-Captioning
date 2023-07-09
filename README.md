@@ -2,6 +2,7 @@
 ## Image Captioning with Encoder-Decoder architecture on Flickr8k data set 
 ![image](https://github.com/Shaharalpert123/Image-Captioning/assets/139067940/0150d496-f9e7-420b-830c-d3fbeb2f972a)
 
+
 ## Project for Deep Learning-046211 (Technion) Spring 2023 
 ## By Meir Lederman and Shahar Alpert
 

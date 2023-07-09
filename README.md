@@ -47,3 +47,6 @@ the code is in one ipynb notebook, after installing the requirements run it cell
 
 we can see that in both models some captions are good and some captions are very bad. most of the time the model has a reasonable idea of what happening in the image but not precise on the details.  
 
+## References
+We used the structure of the code of https://github.com/luizwainstein/046211_Image_Captioning
+
